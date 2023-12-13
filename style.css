@@ -30,12 +30,11 @@
 }
 
 .card {
-    margin: 240px 300px;
+    margin: 200px;
     /* margin-left: auto;
     margin-right: auto; */
     padding: 60px;
     display: flex;
-
 }
 
 
@@ -69,6 +68,6 @@
     grid-template-columns: 1fr 1fr;
 }
 
-.col{
+.col {
     padding-right: 0px;
 }
