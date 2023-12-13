@@ -64,8 +64,9 @@
 }
 
 .row {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    height: 1080px;
+    width: 1920px;
+    display: flex;
 }
 
 .col {
